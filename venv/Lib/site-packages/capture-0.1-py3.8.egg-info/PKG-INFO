@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: capture
+Version: 0.1
+Summary: Capture stdout and/or stderr
+Home-page: UNKNOWN
+Author: Wijnand Modderman
+Author-email: maze@pyth0n.org
+License: MIT
+Description: UNKNOWN
+Keywords: capture stdout stderr write read
+Platform: UNKNOWN
